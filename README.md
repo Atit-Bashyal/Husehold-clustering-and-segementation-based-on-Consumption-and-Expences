@@ -1,6 +1,3 @@
-# KMEANS-CLUSTERING-AND-ASSOCIATION-MINING
-
-
 ## Executive Summary
 
 
